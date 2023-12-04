@@ -1,6 +1,6 @@
 $ontext
-Modèle Economie fermée, sans gouvernement ni Epargne. C'est modèle avec un seul bien à la production
-et à la consommation.
+ModÃ¨le Economie fermÃ©e, sans gouvernement ni Epargne. C'est modÃ¨le avec un seul bien Ã  la production
+et Ã  la consommation.
 
 $offtext
 
@@ -13,8 +13,7 @@ LD0           Valeur initiale de la demande de travail
 Y0            Valeur initiale de la Production
 P0            Valeur initiale du prix de l'output
 INC0          Valeur initiale du revenu du consommateur representatif
-W0            Valeur initiale de la
-remuneration du travail
+W0            Valeur initiale de la remuneration du travail
 R0            Valeur initiale de la remuneration du capital
 C0            Valeur initiale de la consommation finale
 leonO         Valeur initiale du Leon
