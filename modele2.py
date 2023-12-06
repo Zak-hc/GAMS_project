@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 #Bissmilah 
+#Modele en equilibre general avec trois biens
 import numpy as np
 
 # Définition des ensembles et des paramètres
