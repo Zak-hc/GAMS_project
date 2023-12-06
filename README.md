@@ -1,6 +1,6 @@
 # GAMS_project
 <h1 align="center">BISMILLAH👋</h1>
-<h3 align="center"> <img src=" https://raw.githubusercontent.com/GAMS-dev/gamspy/develop/docs/_static/gamspy_logo.png" alt="GAMSPY  " /> </h3>
+<h3 align="center"> <img src="https://gamspy.readthedocs.io/en/latest/_static/gamspy_logo.png" alt="GAMSPY  " /> </h3>
 
 
 -----------------
