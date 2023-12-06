@@ -1,11 +1,10 @@
 # GAMS_project
 <h1 align="center">BISMILLAH👋</h1>
-![plot](https://github.com/GAMS-dev/gamspy/blob/develop/docs/_static/gamspy_logo.png?raw=true)
+<h3 align="center"> <img src="https://github.com/GAMS-dev/gamspy/assets/25618191/af91659c-408d-4f4c-a226-dc79e142a62f" alt="GAMSPY  " /> </h3>
+
 
 -----------------
 
-
-https://github.com/GAMS-dev/gamspy/assets/25618191/af91659c-408d-4f4c-a226-dc79e142a62f
 
 # GAMSPy: Algebraic Modeling Interface to GAMS
 
